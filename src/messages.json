@@ -1,4 +1,5 @@
 {
+{
         "code": 400,
         "message": "Bad request"
 }
@@ -21,4 +22,5 @@
 {
         "code": 418,
         "message": "I'm a teapot"
+}
 }
