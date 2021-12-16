@@ -1,1 +1,25 @@
-foo bar
+{
+    "name": "lorem-ipsum-text-generator",
+    "displayName": "Lorem Ipsum Text Generator",
+    "description": "Lorem Ipsum text generator for z/OS mainframe data sets.",
+    "author": "Zeibura S. Kathau",
+    "license": "",
+    "version": "0.2.0",
+    "preview": false,
+    "publisher": "zeibura",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zeibura/github-onboarding.git"
+    },
+    "bugs": {
+        "url": "https://github.com/zeibura/github-onboarding"
+    },
+    "keywords": [
+        "mainframe",
+        "z/os",
+        "lorem ipsum"
+    ]
+}
