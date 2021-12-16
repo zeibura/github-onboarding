@@ -19,7 +19,7 @@ To use Lorem Ipsum Text Generator you must first set up a connection to the main
 3. Under **Host**, enter the address of your Testing Tools Server in the format `http(s)://host:port`.
 4. Exit the extension settings and open the Lorem Ipsum Text Generator tab.
 5. Click the **+** button at the top of the left-hand sidebar.
-6. When prompted, enter your mainframe credentials
+6. When prompted, enter your mainframe credentials  
 You created a connection to the mainframe. The connection displays in the left-hand sidebar.
 
 ## Create a Filter
