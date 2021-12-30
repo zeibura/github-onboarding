@@ -24,7 +24,9 @@ You created a connection to the mainframe. The connection displays in the left-h
 
 ## Create a Filter
 
-Create a filter to find the data sets that you want to populate with Lorem Ipsum text. To create a filter, select **Create filter** under your connection in the sidebar. Type the name of a data set and press enter. The data set name can be wildcarded.
+Create a filter to find the data sets that you want to populate with Lorem Ipsum text. 
+
+To create a filter, select **Create filter** under your connection in the sidebar. Type the name of a data set and press enter. The data set name can be wildcarded.
 
 ## Populate a Data Set
 
