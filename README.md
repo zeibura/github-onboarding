@@ -4,7 +4,7 @@ This repository contains a made up VS Code extension and a couple of JSON files.
 
 ## Exercise 1
 
-Add some content to the /src/content.json file (literally anything). Use the following workflow: 
+Add or change some content in the /src/content.json file (literally anything). Use the following workflow: 
 
 1. Create a branch
 2. Make commits
