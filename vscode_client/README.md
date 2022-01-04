@@ -24,7 +24,9 @@ You created a connection to the mainframe. The connection displays in the left-h
 
 ## Create a Filter
 
-Create a filter to find the data sets that you want to populate with Lorem Ipsum text. To create a filter, select **Create filter** under your connection in the sidebar. Type the name of a data set and press enter. The data set name can be wildcarded.
+Create a filter to find the data sets that you want to populate with Lorem Ipsum text. 
+
+To create a filter, select **Create filter** under your connection in the sidebar. Type the name of a data set and press enter. The data set name can be wildcarded.
 
 ## Populate a Data Set
 
@@ -34,7 +36,8 @@ Replaces all content in the data set with Lorem Ipsum text.
 * **Lorem Ipsum empty records**  
 Populates empty records in the data set with Lorem Ipsum text.
 * **Lorem Ipsum with selection criteria**  
-Replaces all content in selected records with Lorem Ipsum text. When you select this option, a prompt displays. Specify the full DSN and member name of your selection criteria member in the prompt.
+Replaces all content in selected records with Lorem Ipsum text. 
+  * When you select this option, a prompt displays. Specify the full DSN and member name of your selection criteria member in the prompt.
 
 ## Disclaimer
 
