@@ -4,5 +4,6 @@
 { "code": 402, "message": "Payment required" }
 { "code": 403, "message": "Forbidden" }
 { "code": 407, "message": "Proxy authentication required" }
+{ "code": 407, "message": "Reequest timed out" }
 { "code": 418, "message": "I'm a teapot" }
 }
