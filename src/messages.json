@@ -5,4 +5,5 @@
 { "code": 403, "message": "Forbidden" }
 { "code": 407, "message": "Proxy authentication required" }
 { "code": 418, "message": "I'm a teapot" }
+{ "code": 503, "message": "Service no available" }
 }
