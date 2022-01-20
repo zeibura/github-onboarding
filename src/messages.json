@@ -4,5 +4,6 @@
 { "code": 402, "message": "Payment required" }
 { "code": 403, "message": "Forbidden" }
 { "code": 407, "message": "Proxy authentication required" }
+{ "code": 415, "message": "Dont support this media type please try again" }
 { "code": 418, "message": "I'm a teapot" }
 }
