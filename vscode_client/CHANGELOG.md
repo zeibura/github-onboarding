@@ -2,7 +2,7 @@
 
 All notable changes to the Lorem Ipsum Text Generator extension are documented in this file
 
-## 0.2.0 [2021-12-16]
+## 0.2.1 [2022-01-21]
 
 #### Added
 * Option to populate records with selection criteria
