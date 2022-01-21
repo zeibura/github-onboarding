@@ -2,6 +2,17 @@
 
 All notable changes to the Lorem Ipsum Text Generator extension are documented in this file
 
+## 0.2.1 [today]
+
+#### Added
+* None
+
+#### Fixed
+* None
+
+#### Changed
+* Java version 11 required instead of version 8
+
 ## 0.2.0 [2021-12-16]
 
 #### Added
