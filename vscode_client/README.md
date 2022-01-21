@@ -41,4 +41,4 @@ Replaces all content in selected records with Lorem Ipsum text.
 
 ## Disclaimer
 
-This readme file exists for educational purposes only and does not describe a real extension.
+This readme file exists for educational purposes only, and does not describe a real extension.
