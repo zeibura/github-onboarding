@@ -2,6 +2,21 @@
 
 All notable changes to the Lorem Ipsum Text Generator extension are documented in this file
 
+## 0.2.1 [2021-1-21]
+
+#### Added
+* Option to populate records with selection criteria
+
+#### Fixed
+* 
+
+#### Changed
+* Java version from 8 to 11
+
+## 0.1.0 [2012-12-21]
+
+Initial release
+
 ## 0.2.0 [2021-12-16]
 
 #### Added
@@ -18,3 +33,4 @@ All notable changes to the Lorem Ipsum Text Generator extension are documented i
 ## 0.1.0 [2012-12-21]
 
 Initial release
+
