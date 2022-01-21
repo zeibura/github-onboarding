@@ -1,7 +1,7 @@
 {
 	"userId": 1,
-        "username": "zeibura",
+        "username": "HanaHajna",
 	"id": 1,
-	"title": "this is a fake REST API call",
-	"completed": false
+	"title": "this is a true REST API call",
+	"completed": true
 }
