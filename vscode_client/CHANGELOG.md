@@ -4,6 +4,11 @@ All notable changes to the Lorem Ipsum Text Generator extension are documented i
 
 ## 0.2.0 [2021-12-16]
 
+#### Changed
+* Java support requirements
+
+## 0.2.0 [2021-12-16]
+
 #### Added
 * Option to populate records with selection criteria
 
