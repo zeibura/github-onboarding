@@ -14,6 +14,7 @@ All notable changes to the Lorem Ipsum Text Generator extension are documented i
 
 #### Changed
 * Zowe z/OSMF profile specified in extension settings
+* Requires Java Version 11 to run
 
 ## 0.1.0 [2012-12-21]
 
