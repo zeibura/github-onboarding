@@ -15,10 +15,12 @@ Mainframe messenger is easy way how you can send message from Visual Studio Code
 9. Write your message in the file 
 
 ***NOTE!!!!*** You must not write more that 80 characters in file
+
 9. Save the file
 10. In your workspace, right click .txt file and click on "send using Mainframe Messenger"
 11. At top of screen show box
 12. Write the mainframe username of the person you want to send message to in box
 
 **NOTE** Person you send message to must be logged in to same mainframe server what you put in extension settings
+
 13. Press enter to send message
