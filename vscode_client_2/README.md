@@ -2,7 +2,7 @@
 Mainframe messenger is an easy way to send messages from Visual Studio Code to another mainframe user. 
 
 ## Compatibility 
-Mainframe messenger has Zowe conformance and uses Zowe profile to connect to mainframe.
+Mainframe messenger conforms with Zowe.
 
 ## Prerequisites
 - Java 1.11
@@ -23,7 +23,7 @@ Mainframe messenger has Zowe conformance and uses Zowe profile to connect to mai
 3. Save the file
 4. In your workspace, right click .txt file and click on "send using Mainframe Messenger"
 5. A box appears at the top of the screen
-6. Write the mainframe username of the person you want to send the message to in the box. 
+6. Write the mainframe username of the person you want to send the message to in the box.  
 **NOTE** The recipient must be logged in to the same mainframe server defined in your extension settings.
 7. Press enter to send your message
 
