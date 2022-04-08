@@ -1,6 +1,8 @@
 # Mainframe Messenger for VS Code
+Mainframe messenger is an easy way to send messages from Visual Studio Code to another mainframe user. 
 
-Mainframe messenger is an easy way to send messages from Visual Studio Code to another user on TSO on green screen. The recipient must be connected to the mainframe connection configured in your extension settings. Mainframe messenger has Zowe conformance and uses Zowe profile to connect to mainframe.
+## Compatibility 
+Mainframe messenger has Zowe conformance and uses Zowe profile to connect to mainframe.
 
 ## Prerequisites
 - Java 1.11
