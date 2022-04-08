@@ -7,7 +7,7 @@ Mainframe messenger is an easy way to send messages from Visual Studio Code to T
 1. Java version 11
 2. Zowe z/osmf profile with credentials defined
 
-## How to use Mainframe Messenger
+## Send a Message Using Mainframe Messenger
 
 1. Open Visual Studio Code
 2. Install the Mainframe messenger extension
