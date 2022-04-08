@@ -4,7 +4,7 @@
     "description": "Lorem Ipsum text generator for z/OS mainframe data sets.",
     "author": "Zeibura S. Kathau",
     "license": "",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "preview": false,
     "publisher": "zeibura",
     "engines": {
@@ -21,5 +21,6 @@
         "mainframe",
         "z/os",
         "lorem ipsum"
+        "new keyword 2"
     ]
 }
