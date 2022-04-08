@@ -13,7 +13,7 @@ Mainframe messenger is an easy way how you can send messages from Visual Studio 
 2. In extension settings, write the name of your Zowe profile under "zowe profile".
 3. Write your mainframe username and password in "username" and "password".
 4. If you want use a custom name on your messages, write the name under "custom name".
-5. Under "host" write the URL of your mainframe connection in format http(s)://host(port).
+5. Under "host" write the URL of your mainframe connection in format http(s)://host(port).  
 You successfully connected to the mainfraime.
 
 ## Using
@@ -21,12 +21,12 @@ You successfully connected to the mainfraime.
 ### Send a Message to an Existing User
 
 1. Create a new file in your VS Code workspace with the extension .txt.
-2. Write your message in the file 
+2. Write your message in the file   
 **NOTE** Your message cannot be longer than 80 characters.
 3. Save the file
 4. In your workspace, right click .txt file and click on "send using Mainframe Messenger"
 5. A box displays at the top of the screen
-6. Write the mainframe username of the person you want to send the message to in the box
+6. Write the mainframe username of the person you want to send the message to in the box.  
 **NOTE** The person you send the message to must be logged in to the same mainframe server you put in extension settings
 13. Press enter to send your message
 
