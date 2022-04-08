@@ -24,12 +24,12 @@ You successfully connected to the mainfraime.
 
 1. Create a new file in your VS Code workspace using a file with the extension .txt.
 2. Write your message in the file   
-**NOTE** Your message cannot be longer than 80 characters.
+**Note:** Your message cannot be longer than 80 characters.
 3. Save the file
 4. In your workspace, right click .txt file and click on "send using Mainframe Messenger"
 5. A box displays at the top of the screen
 6. Write the mainframe username of the person you want to send the message to in the box.  
-**NOTE** The person you send the message to must be logged in to the same mainframe server you put in extension settings
+**Note:** The person you send the message to must be logged in to the same mainframe server you put in extension settings
 13. Press enter to send your message.  
 You successfully sent a message to an existing user.
 
