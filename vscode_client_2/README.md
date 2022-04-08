@@ -14,12 +14,12 @@ Before installing Mainframe Messenger, make sure you meet the following prerequi
 2. In extension settings, write the name of your Zowe profile under "zowe profile".
 3. Write your mainframe username and password in "username" and "password".
 4. If you want use a custom name on your messages, write the name under "custom name".
+5. 1. Under "host" write the URL of your mainframe connection in format http(s)://host(port).
 
 ## Using
 Follow these steps to send a message:
-1. Under "host" write the URL of your mainframe connection in format http(s)://host(port).
-2. Create a new file in your VS Code workspace with the extension .txt
-3. Write your message in the file.
+1. Create a new file in your VS Code workspace with the extension .txt
+2. Write your message in the file.
 
 ***NOTE*** Your message cannot be longer than 80 characters
 
