@@ -5,5 +5,5 @@
 { "code": 403, "message": "Forbidden" }
 { "code": 407, "message": "Proxy authentication required" }
 { "code": 408, "message": "Request timed out" }
-{ "code": 418, "message": "I'm a teapot" }
+{ "code": 420, "message": "I'm a teapot" }
 }
