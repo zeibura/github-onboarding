@@ -1,14 +1,16 @@
-{
-	"userId": 1,
+[
+    {
+        "userId": 1,
         "username": "zeibura",
-	"id": 1,
-	"title": "this is a fake REST API call",
-	"completed": false
-}
-{
-	"userId": 888,
+        "id": 1,
+        "title": "this is a fake REST API call",
+        "completed": false
+    },
+    {
+        "userId": 888,
         "username": "holyl",
-	"id": 888,
-	"title": "this is a happy REST API call",
-	"completed": true
-}
+        "id": 888,
+        "title": "this is a happy REST API call",
+        "completed": true
+    }
+]
