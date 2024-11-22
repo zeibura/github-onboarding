@@ -7,3 +7,5 @@
 { "code": 408, "message": "Request timed out" }
 { "code": 418, "message": "I'm a teapot" }
 }
+{ "code": 419, "message": "I'm a teapot" }
+}
