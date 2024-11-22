@@ -1,0 +1,53 @@
+{
+  "course_name": "Divine Studies 101",
+  "semester": "Eternal Spring 2024",
+  "professor": {
+    "name": "St. Peter",
+    "office_hours": "Whenever the pearly gates are open",
+    "contact": "prayer@heaven.org"
+  },
+  "assignments": [
+    {
+      "id": 1,
+      "title": "Cloud Architecture Basics",
+      "description": "Design your own fluffy cloud. Must be compatible with angel seating standards.",
+      "due_date": "Judgment Day",
+      "points": 777
+    },
+    {
+      "id": 2,
+      "title": "Harp Maintenance",
+      "description": "Practical guide to keeping your harp strings dust-free for millennia",
+      "due_date": "Next Friday",
+      "points": 333
+    },
+    {
+      "id": 3,
+      "title": "Advanced Halo Polishing",
+      "description": "Learn the sacred art of keeping your halo shiny without using forbidden cleaning products",
+      "due_date": "End of Time",
+      "points": 444
+    }
+  ],
+  "grading_scale": {
+    "divine": "900-1000",
+    "blessed": "800-899",
+    "holy": "700-799",
+    "mortal": "600-699",
+    "needs_prayers": "0-599"
+  },
+  "required_materials": [
+    "One (1) standard-issue cloud",
+    "Holy water (for emergencies)",
+    "Wing maintenance kit",
+    "Eco-friendly halo polish",
+    "Divine notebook (preferably made from heavenly papyrus)"
+  ],
+  "class_rules": [
+    "No sleeping on clouds during lectures",
+    "Halos must be worn at all times",
+    "No unauthorized miracles",
+    "Please keep your wings folded in class"
+  ],
+  "late_policy": "Time is eternal, but deadlines are sacred"
+}
