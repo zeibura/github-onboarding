@@ -2,14 +2,14 @@
 
 The Lorem Ipsum Text Generator extension for Visual Studio Code generates Lorem Ipsum text and inserts it into a data set on the mainframe. Lorem Ipsum Text Generator lets you filter data sets interactively and use selection criteria to specify which records in a data set to populate.
 
-## Prerequisites
+## Address Software Requirements
 
 To use this extension, ensure you have the following:
 
 * Zowe z/OSMF profile with your mainframe credentials specified
 * Testing Tools Server
 
-## Getting Started
+## Configure Connection to the Mainframe
 
 To use Lorem Ipsum Text Generator you must first set up a connection to the mainframe. Follow the procedure below:
 
