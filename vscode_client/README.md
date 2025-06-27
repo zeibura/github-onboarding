@@ -8,6 +8,7 @@ To use this extension, ensure you have the following:
 
 * Zowe z/OSMF profile with your mainframe credentials specified
 * Testing Tools Server
+* Java 11
 
 ## Configure Connection to the Mainframe
 
