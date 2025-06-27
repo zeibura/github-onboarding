@@ -2,8 +2,8 @@
 
 All notable changes to the Lorem Ipsum Text Generator extension are documented in this file
 
-## 0.3.0 [2024-04-23]
 ## 0.4.0 [2025-6-27]
+## 0.3.0 [2024-04-23]
 #### Changed
 * Java dependency removed
 
