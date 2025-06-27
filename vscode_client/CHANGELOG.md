@@ -1,6 +1,7 @@
 # Lorem Ipsum Text Generator Changelog
 
 All notable changes to the Lorem Ipsum Text Generator extension are documented in this file
+## 0.4.0 [2025-06-27]
 
 ## 0.3.0 [2024-04-23]
 
