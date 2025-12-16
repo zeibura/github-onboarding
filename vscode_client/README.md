@@ -6,7 +6,7 @@ The Lorem Ipsum Text Generator extension for Visual Studio Code generates Lorem 
 
 To use this extension, ensure you have the following:
 
-* Zowe z/OSMF profile with your mainframe credentials specified
+* z/OSMF or z/FTP profile with your mainframe credentials specified
 * Java version 11
 
 ## Configure Connection to the Mainframe
@@ -14,7 +14,7 @@ To use this extension, ensure you have the following:
 To use Lorem Ipsum Text Generator you must first set up a connection to the mainframe. Follow the procedure below:
 
 1. In Visual Studio Code, open the Lorem Ipsum Text Generator extension settings.
-2. Under **Profile**, insert the name of your Zowe z/OSMF profile.
+2. Under **Profile**, insert the name of your z/OSMF or z/FTP profile.
 3. Exit the extension settings and open the Lorem Ipsum Text Generator tab.
 4. Click the **+** button at the top of the left-hand sidebar.
 5. When prompted, enter your mainframe credentials  
