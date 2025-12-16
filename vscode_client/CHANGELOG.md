@@ -2,7 +2,7 @@
 
 All notable changes to the Lorem Ipsum Text Generator extension are documented in this file
 
-## 0.4.1 [2025-6-27]
+## 0.4.1 [2025-12-16]
 #### Changed
 * Instead of a Zowe profile, we now require you to use z/OSMF or z/FTP profile to connect to the mainframe.
 
