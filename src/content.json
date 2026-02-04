@@ -3,5 +3,5 @@
         "username": "alex",
 	"id": 1,
 	"title": "this is a fake REST API call",
-	"completed": true
+	"completed": false
 }
