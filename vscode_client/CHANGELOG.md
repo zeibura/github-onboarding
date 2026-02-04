@@ -2,6 +2,9 @@
 
 All notable changes to the Lorem Ipsum Text Generator extension are documented in this file
 
+## 0.4.2 [2026-02-04]
+#### Changed
+* Removed Java as a requirement.
 ## 0.4.1 [2025-12-16]
 #### Changed
 * As well as a z/OSMF profile, you can use a z/FTP profile instead of a Zowe profile.
