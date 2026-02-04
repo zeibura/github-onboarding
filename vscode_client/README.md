@@ -7,7 +7,6 @@ The Lorem Ipsum Text Generator extension for Visual Studio Code generates Lorem 
 To use this extension, ensure you have the following:
 
 * z/OSMF or z/FTP profile with your mainframe credentials specified
-* Java version 11
 
 ## Configure Connection to the Mainframe
 
