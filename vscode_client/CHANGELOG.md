@@ -2,6 +2,9 @@
 
 All notable changes to the Lorem Ipsum Text Generator extension are documented in this file
 
+## 0.4.3 [2026-09-11]
+#### Changed
+* Added Java as a requirement because Java is awesome.
 ## 0.4.2 [2026-02-04]
 #### Changed
 * Removed Java as a requirement.
