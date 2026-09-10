@@ -2,9 +2,9 @@
     "name": "lorem-ipsum-text-generator",
     "displayName": "Lorem Ipsum Text Generator",
     "description": "Lorem Ipsum text generator for z/OS mainframe data sets.",
-    "author": "Zeibura S. Kathau",
+    "author": "Zeibura S. Kathau and Zhenya",
     "license": "",
-    "version": "0.4.2",
+    "version": "0.4.3",
     "preview": false,
     "publisher": "zeibura",
     "engines": {
